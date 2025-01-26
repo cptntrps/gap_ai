@@ -1,0 +1,4 @@
+python-ollama
+pandas
+numpy
+python-dotenv
