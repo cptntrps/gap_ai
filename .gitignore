@@ -1,0 +1,30 @@
+echo "# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.venv/
+venv/
+env/
+
+# Data
+*.csv
+*.json
+*.pickle
+
+# Ollama/Docker
+ollama/
+models/
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Local development
+*.local" > .gitignore
