@@ -1,4 +1,4 @@
 python-ollama
 pandas
 numpy
-python-dotenv
+python-dotenv"requests==2.32.3" 
